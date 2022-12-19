@@ -7,7 +7,7 @@ Full Stack Web Developer | MERN Stack
 I specialize in creating software for clients ranging from individuals and small businesses all the way to large enterprise corporations. I’m currently working on Node.js and React.js as a MERN Stack Developer.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://freelanceanandshukla.com/portfolio.php)
+* 🖥️  See my portfolio at [MyPortfolio](https://anand-shukla.netlify.app/)
 * ✉️  You can contact me at [anandshukla.web@gmail.com](mailto:anandshukla.web@gmail.com)
 * 🤝  I'm open to collaborating on Open Source
 
