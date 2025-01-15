@@ -10,14 +10,6 @@ I specialize in creating software for clients ranging from individuals and small
 * 🖥️  See my portfolio at [MyPortfolio](https://anand-shukla.netlify.app/)
 * ✉️  You can contact me at [anandshukla.web@gmail.com](mailto:anandshukla.web@gmail.com)
 
-<a href="https://www.twitter.com/Anand_Shuklaa" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/Anand_Shuklaa?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-/>
-</a>
-<a href="https://www.github.com/anandshuklaweb" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/anandshuklaweb?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" />
-</a>
-
 ### Skills
 
 <p align="left">
