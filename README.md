@@ -1,7 +1,7 @@
 Hi 👋 My name is Anand Shukla
 =============================
 
-Full Stack Web Developer | MERN Stack
+Full Stack Web Developer | MERN Stack | Shopify Developer
 ---------------------------------
 
 I specialize in creating software for clients ranging from individuals and small businesses all the way to large enterprise corporations. I’m currently working on Node.js and React.js as a MERN Stack Developer.
