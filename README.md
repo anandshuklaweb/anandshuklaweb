@@ -4,16 +4,19 @@ Hi 👋 My name is Anand Shukla
 Full Stack Web Developer | MERN Stack | Shopify Developer
 ---------------------------------
 
-I specialize in creating software for clients ranging from individuals and small businesses all the way to large enterprise corporations. I’m currently working on Node.js and React.js as a MERN Stack Developer.
+I specialize in creating software for clients ranging from individuals and small businesses all the way to large enterprise corporations. I’m currently working on Shopify, React.js and Node.js as a MERN Stack Developer.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](https://anand-shukla.netlify.app/)
 * ✉️  You can contact me at [anandshukla.web@gmail.com](mailto:anandshukla.web@gmail.com)
 
-<a href="https://www.twitter.com/Anand_Shuklaa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Anand_Shuklaa?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-/></a><a href="https://www.github.com/anandshuklaweb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anandshuklaweb?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/Anand_Shuklaa" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/Anand_Shuklaa?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
+/>
+</a>
+<a href="https://www.github.com/anandshuklaweb" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/anandshuklaweb?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" />
+</a>
 
 ### Skills
 
@@ -44,7 +47,23 @@ src="https://img.shields.io/github/followers/anandshuklaweb?logo=github&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/anandshuklaweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shukla__anand_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anand--shukla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/anandshuklaweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Anand_Shuklaa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+    <a href="https://www.github.com/anandshuklaweb" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a> 
+    <a href="http://www.instagram.com/shukla__anand_" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </a> 
+    <a href="https://www.linkedin.com/in/anand--shukla" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </a> 
+    <a href="http://www.medium.com/anandshuklaweb" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+    </a> 
+    <a href="https://www.twitter.com/Anand_Shuklaa" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    </a>
+</p>
 
 ### Badges
 
